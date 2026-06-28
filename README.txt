@@ -1,4 +1,3 @@
-Program Assignment:
 
 Client using UDP protocol for sending IEEE 802.11-style frames to an Access Point (AP)
 
